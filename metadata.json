@@ -1,0 +1,7 @@
+{
+  "name": "AI Particle Shifter",
+  "description": "An interactive particle physics simulation where AI generates shapes from text prompts, featuring fluid gesture controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
